@@ -44,7 +44,7 @@ UML 共 14 种图表，分为两大类：
 
 ---
 
-# Palantir Ontology 原文翻译与金字塔结构整理
+# Palantir Ontology 原文翻译
 
 ## 一、核心结论
 
