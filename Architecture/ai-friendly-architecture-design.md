@@ -1,5 +1,3 @@
-# AI架构选型决策
-
 # AI 友好架构设计：从决策到落地的完整指南
 
 > 本文整理自 [ai-friendly-architecture-design-skill](https://github.com/GanJiaKouN16/ai-friendly-architecture-design-skill) 项目，一个经过 227 个测试场景验证（98%+ 准确率）的 AI 架构决策引擎。

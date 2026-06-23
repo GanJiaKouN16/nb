@@ -1,6 +1,6 @@
 # Loop Engineering
 
-# 一、什么是 Loop Engineering
+## 一、什么是 Loop Engineering
 
 由 OpenClaw 作者 Peter Steinberger 点火、Google Cloud AI 总监 Addy Osmani 正式定义：「Loop engineering 就是把『亲自给 agent 写 prompt 的那个你』替换掉，你转而去设计那个代替你做这件事的系统」。
 
@@ -8,7 +8,7 @@
 
 工作没有变容易，是杠杆的支点移动了：以前写一条好 prompt，收益是「这一次回答变好」；现在设计一个好 loop，收益是「之后每一次循环都变好」。
 
-# 二、一个 loop 的六大核心部件
+## 二、一个 loop 的六大核心部件
 
 拆开真正跑起来的 loop，零件出奇地一致：
 
@@ -23,7 +23,7 @@
 
 「agent 会忘，但 repo 不会。」
 
-# 三、一个真实的 loop 长什么样
+## 三、一个真实的 loop 长什么样
 
 以 Osmani 自己用的「晨间 triage loop」为例：
 
@@ -37,7 +37,7 @@
 
 整个过程里，你只设计了一次，中间没有任何一步你写过 prompt
 
-# 四、工具现状：现在就能搭
+## 四、工具现状：现在就能搭
 
 一年前搭一个 loop 意味着写一堆 bash 脚本；现在五大件全部内置在主流产品里（Codex / Claude Code）。
 
@@ -55,7 +55,7 @@
 
 loop 的设计正在变得工具无关——部件是同样的部件，差的只是商标。值得积累的是图纸，不是对某家工具的肌肉记忆。
 
-# 五、三盆冷水
+## 五、三盆冷水
 
 ## 1. 验证仍然归你
 无人值守运行的 loop，也是无人值守犯错的 loop。检查 agent 嘴里的「done」只是一个声明，不是一个证明。
@@ -70,7 +70,7 @@ loop 自己转起来后，最舒服也最危险的姿势是：不再对产出有
 
 另外还有一笔现实账：token 成本——loop 是按循环烧 token 的，sub-agent 每多一个就多一份开销。
 
-# 最终三句话
+## 最终三句话
 
 1. **四个词是一场瓶颈迁移**：prompt → context → harness → loop，模型越强瓶颈越往外移，最后移到「亲自按回车的你」身上
 2. **一个 loop = 五大件 + 磁盘记忆**：自动化是心跳，worktree 防打架，skill 治金鱼记忆，connector 摸到真实世界，sub-agent 写查分离，状态文件让明天接得上今天

@@ -1,7 +1,6 @@
-#beergaao
 # BeerGaao-Web 项目说明
 
-# BeerGaao-Web — 智能股票分析工具
+#beergaao
 
 基于 LLM Agent 的智能股票分析工具前端项目。
 

@@ -1,10 +1,6 @@
-# Ontology--Palantir
+# Palantir 本体论 (Ontology)
 
 #本体论
-
-9:
-
-# Palantir 本体论 (Ontology)
 
 > 核心逻辑：通过本体层（Ontology）建立统一语言，将"数据模型"与"规则模型"结构化，解决AI的语义鸿沟问题。
 
@@ -44,7 +40,7 @@ UML 共 14 种图表，分为两大类：
 
 ---
 
-# Palantir Ontology 原文翻译
+## Palantir Ontology 原文翻译
 
 ## 一、核心结论
 

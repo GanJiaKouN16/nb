@@ -1,9 +1,5 @@
 # AI Agent & Skill 测评方案
 
-10:
-
-# AI Agent & Skill 测评方案
-
 ---
 
 ## 一、背景与痛点
