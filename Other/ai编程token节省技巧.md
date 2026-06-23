@@ -70,3 +70,13 @@
 6. **Prompt 越短越好** → 压缩丢必要信息导致重试，压缩要精准
 
 ---
+
+## 相关笔记
+
+#ai #coding #token #cost
+
+- [[Loop Engineering]] — 循环工程设计模式（loop 的 token 成本考量）
+- [[Harness 工程化]] — 流程工程化实践
+- [[CLI 工具使用指南]] — RTK 等 token 优化工具
+- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
+- [[全景]] — AI Agent 架构师必备知识体系全景图

@@ -89,3 +89,12 @@ curl -s http://10.255.255.254:9222/json/version
 - 空回复：关闭所有 Chrome 进程重新启动
 - 端口占用：检查 netstat 并关闭冲突进程
 - svchost 占用：删除端口转发规则后重启 Chrome
+
+---
+
+## 相关笔记
+
+#tool #wsl2 #chrome #debug
+
+- [[CLI 工具使用指南]] — 包含 Playwright 等调试工具
+- [[BeerGaao-Web 项目说明]] — 前端项目调试场景

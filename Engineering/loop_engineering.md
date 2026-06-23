@@ -76,3 +76,15 @@ loop 自己转起来后，最舒服也最危险的姿势是：不再对产出有
 2. **一个 loop = 五大件 + 磁盘记忆**：自动化是心跳，worktree 防打架，skill 治金鱼记忆，connector 摸到真实世界，sub-agent 写查分离，状态文件让明天接得上今天
 3. **loop 把杠杆变长了，但三笔账也变大了**：验证、理解债、认知投降——工具分不出你是在加速还是在逃避，你自己分得出
 
+---
+
+## 相关笔记
+
+#engineering #loop #automation #agent
+
+- [[Harness 工程化]] — 流程工程化实践（harness 是 loop 的前置阶段）
+- [[AI Agent & Skill 测评方案]] — Agent 评测框架
+- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
+- [[全景]] — AI Agent 架构师必备知识体系全景图
+- [[AI Coding Agent 成本优化]] — Token 成本优化策略（loop 的成本考量）
+

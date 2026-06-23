@@ -77,3 +77,15 @@ Agent 的"遗忘"存在三重根因：
 ### 适用边界
 - **依赖前提**：过程必须可观测（中间产物能落盘检测）。
 - **时效性**：该套价值可能会随模型基础能力的自我进化而逐渐衰减（当模型本身足够稳定时，工程约束成本变高）。
+
+---
+
+## 相关笔记
+
+#engineering #harness #workflow #process
+
+- [[Loop Engineering]] — 循环工程设计模式（loop 是 harness 的演进方向）
+- [[AI Agent & Skill 测评方案]] — Agent 评测框架
+- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
+- [[全景]] — AI Agent 架构师必备知识体系全景图
+- [[AI Coding Agent 成本优化]] — Token 成本优化策略

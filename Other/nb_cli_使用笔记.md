@@ -48,3 +48,12 @@ alias nb-list='nb list 2>&1 | sed "s/\x1b[^a-zA-Z]*[a-zA-Z]//g; s/\x0f//g; s/\x0
 
 - nb 没有直接禁用 glow 渲染器的设置
 - 使用别名可以完全去除 ANSI 颜色代码
+
+---
+
+## 相关笔记
+
+#tool #nb #cli #notebook
+
+- [[CLI 工具使用指南]] — 包含 nb 命令速查
+- [[AI Coding Agent 成本优化]] — Token 成本优化策略

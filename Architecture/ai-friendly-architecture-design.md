@@ -728,3 +728,16 @@ def call_tool_with_idempotency(tool, params, idempotency_key):
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)
 - [Google A2A Protocol](https://google.github.io/A2A/)
 - [原始项目仓库](https://github.com/GanJiaKouN16/ai-friendly-architecture-design-skill)
+
+---
+
+## 相关笔记
+
+#architecture #ai #agent #decision
+
+- [[全景]] — AI Agent 架构师必备知识体系全景图
+- [[Palantir 本体论 (Ontology)]] — 本体论与数据建模
+- [[Loop Engineering]] — 循环工程设计模式
+- [[Harness 工程化]] — 流程工程化实践
+- [[AI Agent & Skill 测评方案]] — Agent 评测框架
+- [[AI Coding Agent 成本优化]] — Token 成本优化策略

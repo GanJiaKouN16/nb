@@ -103,3 +103,13 @@ playwright show-report # 查看测试报告
 ---
 
 *创建时间: 2026-06-19*
+
+---
+
+## 相关笔记
+
+#tool #cli #rtk #nb #codegraph
+
+- [[NB CLI 使用笔记]] — nb 工具详细使用
+- [[WSL2 远程调试 Windows Chrome]] — Chrome 调试配置
+- [[AI Coding Agent 成本优化]] — RTK 等工具的 token 优化原理

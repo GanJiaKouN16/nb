@@ -44,3 +44,12 @@ CSS变量已正确：
 ## 备注
 
 中国市场（A股、港股等）采用涨红跌绿配色，与国际市场（美股等）的涨绿跌红相反。
+
+---
+
+## 相关笔记
+
+#project #beergaao #kline #frontend #stock
+
+- [[BeerGaao-Web 项目说明]] — 项目技术栈与架构
+- [[BeerGaao-Web 待办事项]] — 项目待办清单

@@ -66,3 +66,16 @@ Agentic RAG：RAG 做成 Agent，自主判断检索策略，动态调整
 | 防死循环 | 最大步数（15步）、重复检测（3次退出）、超时控制 |
 | 幻觉应对 | Reflection 自我验证 + 工具调用结果校验 |
 | 生产踩坑 | 死循环、幻觉调用、上下文污染、Token爆炸、Prompt注入 |
+
+---
+
+## 相关笔记
+
+#architecture #ai #agent #knowledge
+
+- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
+- [[Palantir 本体论 (Ontology)]] — 本体论与数据建模
+- [[Loop Engineering]] — 循环工程设计模式
+- [[Harness 工程化]] — 流程工程化实践
+- [[AI Agent & Skill 测评方案]] — Agent 评测框架
+- [[AI Coding Agent 成本优化]] — Token 成本优化策略

@@ -94,3 +94,12 @@ npm run dev
 - BeerGaao-skill
 - buffett-skills
 - ai-hedge-fund
+
+---
+
+## 相关笔记
+
+#project #beergaao #react #stock #frontend
+
+- [[BeerGaao-Web 待办事项]] — 项目待办清单
+- [[K线颜色修正 - 中国市场标准]] — K线颜色修正记录
