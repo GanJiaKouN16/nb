@@ -1,3 +1,11 @@
+---
+type: Reference
+title: CLI 工具使用指南
+description: RTK、nb、CodeGraph、Superpowers、Playwright 五大 CLI 工具常用命令与速查表。
+tags: [tool, cli, rtk, nb, codegraph]
+timestamp: 2026-06-19T00:00:00Z
+---
+
 # CLI 工具使用指南
 
 ## 1. RTK (Rust Token Killer)
@@ -108,8 +116,7 @@ playwright show-report # 查看测试报告
 
 ## 相关笔记
 
-#tool #cli #rtk #nb #codegraph
 
-- [[NB CLI 使用笔记]] — nb 工具详细使用
-- [[WSL2 远程调试 Windows Chrome]] — Chrome 调试配置
-- [[AI Coding Agent 成本优化]] — RTK 等工具的 token 优化原理
+- [NB CLI 使用笔记](/Other/nb_cli_使用笔记.md) — nb 工具详细使用
+- [WSL2 远程调试 Windows Chrome](/Tool/Wsl2-Chrome-CDP-Debug.md) — Chrome 调试配置
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — RTK 等工具的 token 优化原理

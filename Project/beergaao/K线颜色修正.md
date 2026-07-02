@@ -1,6 +1,13 @@
+---
+type: Reference
+title: K线颜色修正 - 中国市场标准
+description: K 线图颜色从国际标准（涨绿跌红）改为中国市场标准（涨红跌绿）的修改记录与验证方法。
+tags: [project, beergaao, kline, frontend, stock]
+timestamp: 2026-06-18T00:00:00Z
+---
+
 # K线颜色修正 - 中国市场标准
 
-#beergaao
 
 **修改日期**: 2026-06-18
 
@@ -49,7 +56,6 @@ CSS变量已正确：
 
 ## 相关笔记
 
-#project #beergaao #kline #frontend #stock
 
-- [[BeerGaao-Web 项目说明]] — 项目技术栈与架构
-- [[BeerGaao-Web 待办事项]] — 项目待办清单
+- [BeerGaao-Web 项目说明](/Project/beergaao/项目说明.md) — 项目技术栈与架构
+- [BeerGaao-Web 待办事项](/Project/beergaao/待办事项.md) — 项目待办清单

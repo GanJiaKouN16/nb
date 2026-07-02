@@ -1,3 +1,11 @@
+---
+type: Article
+title: AI Agent & Skill 测评方案
+description: Agent 测评框架——三类评委、五个维度、用例集设计、基线管理与实战案例（TPerf 性能分析 Agent）。
+tags: [engineering, eval, testing, agent]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # AI Agent & Skill 测评方案
 
 ---
@@ -341,10 +349,8 @@
 
 ## 相关笔记
 
-#engineering #eval #testing #agent
-
-- [[Harness 工程化]] — 流程工程化实践（评测驱动的工程化）
-- [[Loop Engineering]] — 循环工程设计模式
-- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
-- [[全景]] — AI Agent 架构师必备知识体系全景图
-- [[AI Coding Agent 成本优化]] — Token 成本优化策略
+- [Harness 工程化](/Engineering/harness-工程化.md) — 流程工程化实践（评测驱动的工程化）
+- [Loop Engineering](/Engineering/loop_engineering.md) — 循环工程设计模式
+- [AI 友好架构设计：从决策到落地的完整指南](/Architecture/AI 友好架构设计：从决策到落地的完整指南.md) — AI 架构决策框架
+- [全景](/Architecture/ai-agent-architect-knowledge-panorama.md) — AI Agent 架构师必备知识体系全景图
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — Token 成本优化策略

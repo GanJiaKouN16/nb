@@ -1,3 +1,11 @@
+---
+type: Article
+title: Loop Engineering
+description: Loop Engineering 模式详解——从手动 prompt 编写转向设计自主运转的系统循环。
+tags: [engineering, loop, automation, agent]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # Loop Engineering
 
 ## 一、什么是 Loop Engineering
@@ -80,10 +88,8 @@ loop 自己转起来后，最舒服也最危险的姿势是：不再对产出有
 
 ## 相关笔记
 
-#engineering #loop #automation #agent
-
-- [[Harness 工程化]] — 流程工程化实践（harness 是 loop 的前置阶段）
-- [[AI Agent & Skill 测评方案]] — Agent 评测框架
-- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
-- [[全景]] — AI Agent 架构师必备知识体系全景图
-- [[AI Coding Agent 成本优化]] — Token 成本优化策略（loop 的成本考量）
+- [Harness 工程化](/Engineering/harness-工程化.md) — 流程工程化实践（harness 是 loop 的前置阶段）
+- [AI Agent & Skill 测评方案](/Engineering/ai_agent_&_skill_测评方案.md) — Agent 评测框架
+- [AI 友好架构设计：从决策到落地的完整指南](/Architecture/AI 友好架构设计：从决策到落地的完整指南.md) — AI 架构决策框架
+- [全景](/Architecture/ai-agent-architect-knowledge-panorama.md) — AI Agent 架构师必备知识体系全景图
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — Token 成本优化策略（loop 的成本考量）

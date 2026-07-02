@@ -1,3 +1,11 @@
+---
+type: Article
+title: The Art of Loop Engineering — LangChain 四层循环架构
+description: LangChain 博客解读——四层循环架构（Agent、验证、事件驱动、爬山），以及 Osmani 六大部件框架的对应关系。
+tags: [engineering, loop, langchain, agent]
+timestamp: 2026-06-16T00:00:00Z
+---
+
 # The Art of Loop Engineering — LangChain 四层循环架构
 
 ## Part 1: 总结
@@ -100,11 +108,9 @@ LangSmith 是 LangChain 的 Agent 工程平台，帮助开发者调试每一个 
 
 ---
 
-**标签**：`engineering` · `loop` · `langchain` · `agent`
-
-- Loop Engineering — Osmani 的 Loop Engineering 六大部件框架
-- Harness 工程化 — 流程工程化实践
-- AI Agent & Skill 测评方案 — Agent 评测框架
+- [Loop Engineering](/Engineering/loop_engineering.md) — Osmani 的 Loop Engineering 六大部件框架
+- [Harness 工程化](/Engineering/harness-工程化.md) — 流程工程化实践
+- [AI Agent & Skill 测评方案](/Engineering/ai_agent_&_skill_测评方案.md) — Agent 评测框架
 
 ---
 

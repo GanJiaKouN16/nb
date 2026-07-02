@@ -1,3 +1,11 @@
+---
+type: Article
+title: AI 友好架构设计：从决策到落地的完整指南
+description: AI 架构决策框架——Q1-Q5 决策树、35 种组件组合模式、RAG 决策路径、反模式告警与代码模板。
+tags: [architecture, ai, agent, decision]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # AI 友好架构设计：从决策到落地的完整指南
 
 > 本文整理自 [ai-friendly-architecture-design-skill](https://github.com/GanJiaKouN16/ai-friendly-architecture-design-skill) 项目，一个经过 227 个测试场景验证（98%+ 准确率）的 AI 架构决策引擎。
@@ -733,11 +741,10 @@ def call_tool_with_idempotency(tool, params, idempotency_key):
 
 ## 相关笔记
 
-#architecture #ai #agent #decision
 
-- [[全景]] — AI Agent 架构师必备知识体系全景图
-- [[Palantir 本体论 (Ontology)]] — 本体论与数据建模
-- [[Loop Engineering]] — 循环工程设计模式
-- [[Harness 工程化]] — 流程工程化实践
-- [[AI Agent & Skill 测评方案]] — Agent 评测框架
-- [[AI Coding Agent 成本优化]] — Token 成本优化策略
+- [全景](/Architecture/ai-agent-architect-knowledge-panorama.md) — AI Agent 架构师必备知识体系全景图
+- [Palantir 本体论 (Ontology)](/Architecture/ontology--palantir.md) — 本体论与数据建模
+- [Loop Engineering](/Engineering/loop_engineering.md) — 循环工程设计模式
+- [Harness 工程化](/Engineering/harness-工程化.md) — 流程工程化实践
+- [AI Agent & Skill 测评方案](/Engineering/ai_agent_&_skill_测评方案.md) — Agent 评测框架
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — Token 成本优化策略

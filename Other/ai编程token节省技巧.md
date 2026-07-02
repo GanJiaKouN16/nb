@@ -1,3 +1,11 @@
+---
+type: Article
+title: AI Coding Agent 成本优化
+description: AI Coding Agent 成本优化五层路径——从使用习惯到多 Agent 协作，含六大常见误区。
+tags: [ai, coding, token, cost]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # AI Coding Agent 成本优化
 
 ## 核心结论
@@ -73,10 +81,9 @@
 
 ## 相关笔记
 
-#ai #coding #token #cost
 
-- [[Loop Engineering]] — 循环工程设计模式（loop 的 token 成本考量）
-- [[Harness 工程化]] — 流程工程化实践
-- [[CLI 工具使用指南]] — RTK 等 token 优化工具
-- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
-- [[全景]] — AI Agent 架构师必备知识体系全景图
+- [Loop Engineering](/Engineering/loop_engineering.md) — 循环工程设计模式（loop 的 token 成本考量）
+- [Harness 工程化](/Engineering/harness-工程化.md) — 流程工程化实践
+- [CLI 工具使用指南](/Tool/CLI工具使用指南.md) — RTK 等 token 优化工具
+- [AI 友好架构设计：从决策到落地的完整指南](/Architecture/ai-friendly-architecture-design.md) — AI 架构决策框架
+- [全景](/Architecture/ai-agent-architect-knowledge-panorama.md) — AI Agent 架构师必备知识体系全景图

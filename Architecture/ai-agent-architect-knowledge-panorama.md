@@ -1,3 +1,11 @@
+---
+type: Article
+title: 全景 — AI Agent 架构师必备知识体系全景图
+description: AI Agent 架构师知识全景——范式跃迁、四种工作模式、三层工具链、四大支柱、RAG 与 Agent 关系、问题速查。
+tags: [architecture, ai, agent, knowledge]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # 全景
 
 AI Agent 架构师必备知识体系全景图
@@ -71,11 +79,10 @@ Agentic RAG：RAG 做成 Agent，自主判断检索策略，动态调整
 
 ## 相关笔记
 
-#architecture #ai #agent #knowledge
 
-- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
-- [[Palantir 本体论 (Ontology)]] — 本体论与数据建模
-- [[Loop Engineering]] — 循环工程设计模式
-- [[Harness 工程化]] — 流程工程化实践
-- [[AI Agent & Skill 测评方案]] — Agent 评测框架
-- [[AI Coding Agent 成本优化]] — Token 成本优化策略
+- [AI 友好架构设计：从决策到落地的完整指南](/Architecture/ai-friendly-architecture-design.md) — AI 架构决策框架
+- [Palantir 本体论 (Ontology)](/Architecture/ontology--palantir.md) — 本体论与数据建模
+- [Loop Engineering](/Engineering/loop_engineering.md) — 循环工程设计模式
+- [Harness 工程化](/Engineering/harness-工程化.md) — 流程工程化实践
+- [AI Agent & Skill 测评方案](/Engineering/ai_agent_&_skill_测评方案.md) — Agent 评测框架
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — Token 成本优化策略

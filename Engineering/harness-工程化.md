@@ -1,3 +1,11 @@
+---
+type: Article
+title: Harness 工程化
+description: AI 编码瓶颈从"模型能力"转向"流程工程"——三层设计、分层架构、门禁外置与评测驱动。
+tags: [engineering, harness, workflow, process]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # Harness 工程化
 
 > **核心观点**：AI 编码的瓶颈已从"模型能力"转向"流程工程"。模型提供智商，而 `harness` 提供纪律。
@@ -82,10 +90,8 @@ Agent 的"遗忘"存在三重根因：
 
 ## 相关笔记
 
-#engineering #harness #workflow #process
-
-- [[Loop Engineering]] — 循环工程设计模式（loop 是 harness 的演进方向）
-- [[AI Agent & Skill 测评方案]] — Agent 评测框架
-- [[AI 友好架构设计：从决策到落地的完整指南]] — AI 架构决策框架
-- [[全景]] — AI Agent 架构师必备知识体系全景图
-- [[AI Coding Agent 成本优化]] — Token 成本优化策略
+- [Loop Engineering](/Engineering/loop_engineering.md) — 循环工程设计模式（loop 是 harness 的演进方向）
+- [AI Agent & Skill 测评方案](/Engineering/ai_agent_&_skill_测评方案.md) — Agent 评测框架
+- [AI 友好架构设计：从决策到落地的完整指南](/Architecture/ai-friendly-architecture-design.md) — AI 架构决策框架
+- [全景](/Architecture/ai-agent-architect-knowledge-panorama.md) — AI Agent 架构师必备知识体系全景图
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — Token 成本优化策略

@@ -1,3 +1,11 @@
+---
+type: Reference
+title: WSL2 远程调试 Windows Chrome
+description: WSL2 到 Windows Chrome 9222 端口远程调试的完整配置步骤——端口清理、防火墙、端口转发、CDP 连接。
+tags: [tool, wsl2, chrome, debug]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # WSL2 远程调试 Windows Chrome
 
 ## 配置步骤
@@ -94,7 +102,6 @@ curl -s http://10.255.255.254:9222/json/version
 
 ## 相关笔记
 
-#tool #wsl2 #chrome #debug
 
-- [[CLI 工具使用指南]] — 包含 Playwright 等调试工具
-- [[BeerGaao-Web 项目说明]] — 前端项目调试场景
+- [CLI 工具使用指南](/Tool/CLI工具使用指南.md) — 包含 Playwright 等调试工具
+- [BeerGaao-Web 项目说明](/Project/beergaao/项目说明.md) — 前端项目调试场景

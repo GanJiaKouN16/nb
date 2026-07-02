@@ -1,3 +1,11 @@
+---
+type: Playbook
+title: PPT 演示文稿写作指导手册
+description: AI Agent 或人类生成逻辑清晰演示文稿的指导手册——SCQR 框架、金字塔结构、3S 故事、Dot-Dot 规范。
+tags: [tool, ppt, presentation, ai]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # PPT 演示文稿写作指导手册
 
 > **用途**：指导 AI Agent 或人类写作者快速生成逻辑清晰、说服力强的演示文稿。

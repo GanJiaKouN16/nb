@@ -1,3 +1,11 @@
+---
+type: Reference
+title: NB CLI 使用笔记
+description: nb CLI 基本命令、中文显示问题解决方案、别名配置与笔记存储位置说明。
+tags: [tool, nb, cli, notebook]
+timestamp: 2026-07-02T00:00:00Z
+---
+
 # NB CLI 使用笔记
 
 ## 基本命令
@@ -53,7 +61,6 @@ alias nb-list='nb list 2>&1 | sed "s/\x1b[^a-zA-Z]*[a-zA-Z]//g; s/\x0f//g; s/\x0
 
 ## 相关笔记
 
-#tool #nb #cli #notebook
 
-- [[CLI 工具使用指南]] — 包含 nb 命令速查
-- [[AI Coding Agent 成本优化]] — Token 成本优化策略
+- [CLI 工具使用指南](/Tool/CLI工具使用指南.md) — 包含 nb 命令速查
+- [AI Coding Agent 成本优化](/Other/ai编程token节省技巧.md) — Token 成本优化策略
